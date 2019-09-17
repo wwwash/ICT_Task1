@@ -1,5 +1,5 @@
 # ICT_Task1
-##This code provides a set of pairs(a,y0).a is the input sequence of complex symols,y0 is the output symbol.a=[a(-N),a(-N+1),...,a(-1),a(0),a(1),...,a(N-1),a(N)], N is the memory size.a0 is in the specified constellation M. For example, a(0)=sqrt(2)*[1+1j,-1+1j,-1-1j,1-1j] 
+##This code provides a set of pairs(a,y0).a is the input sequence of complex symols,y0 is the output symbol.a=[a(-N),a(-N+1),...,a(-1),a(0),a(1),...,a(N-1),a(N)], N is the memory size.a0 is in the specified constellation M. For example, a(0)=sqrt(2)*[1+1j,-1+1j,-1-1j,1-1j] in QPSK format. 
 
 ##Implement Version:Python 3.5
 
