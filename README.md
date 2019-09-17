@@ -5,4 +5,4 @@
 
 ##Packages need to be installed: Numpty,scipy, matplotlib, intertools. Please notice that there is a function named "Product" in the "intertools" package, which can achieve the "permn" function in Matlab. "Product" is usde to generate the neighboring symbols at left and right side of a(0). Left side symbols:[a(-N),a(-N+1),...,a(-1)], Right side symbols:[a(1),...,a(N-1),a(N)]
 
-##Output Visulization: Please notice that the PNG picture in the zip file.
+##Output Visulization: Please find the PNG picture in the zip file.
